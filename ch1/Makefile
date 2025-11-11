@@ -12,4 +12,4 @@ build: vet
 
 clean:
 	go clean
-	rm -f hello_world
+	rm -f 
